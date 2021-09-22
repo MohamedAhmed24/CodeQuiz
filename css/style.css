@@ -3,4 +3,36 @@
     margin-left: 10vw;
     display:grid;
     justify-items: center;
+    align-items: center;
 }
+
+
+.hidden{
+    display: none;
+}
+
+
+#answerbuttons{
+    display: inline-block;
+}
+
+
+.answerbtn{
+    display: block;
+    margin: 20px;
+}
+
+:root {
+    background-color: rgb(255, 255, 255);
+}
+ 
+h1 {
+    font-size: xx-large;
+    color: red;
+    margin-bottom: auto;
+}
+
+#intro{
+    font-size: auto;
+}
+
